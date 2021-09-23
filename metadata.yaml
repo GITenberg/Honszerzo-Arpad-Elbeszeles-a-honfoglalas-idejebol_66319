@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '49408'
     url: http://www.gutenberg.org/2009/agents/49408
     wikipedia: https://hu.wikipedia.org/wiki/M%C3%BChlbeck_K%C3%A1roly
+covers:
+- cover_type: archival
+  image_path: 66319-h/images/cover-thumb.jpg
 creator:
   author:
     agent_name: Benedek, Elek
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39589
     wikipedia: https://hu.wikipedia.org/wiki/Benedek_Elek_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66319#Honszerzo-Arpad-Elbeszeles-a-honfoglalas-idejebol
 gutenberg_issued: '2021-09-16'
 identifiers:
   gutenberg: '66319'
